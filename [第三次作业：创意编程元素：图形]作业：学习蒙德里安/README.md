@@ -4,12 +4,8 @@
 - 分析理解彼埃·蒙德里安的作品风格和构图规则，创作类似彼埃·蒙德里安风格的作品，利用processing中提供的绘图函数进行创作实现。
 
 ✏️简单描述你的创意内容，将程序运行结果附在这里。
-对每行每列循环，让后再对其中一些矩形经行循环分割成更小的矩形，达到临摹蒙德里安的效果。随机黑白灰，其中对于黑色的矩形有大小要求。点击画面随机生成蒙德里安临摹画。![微信图片_20211023214321](https://user-images.githubusercontent.com/91180371/138559011-54eb29f8-9556-4329-9640-e519a7dfa1e0.png)
-![微信图片_20211023214340](https://user-images.githubusercontent.com/91180371/138559020-47998c02-fe48-4130-96bc-f31d84b91b15.png)
-![微信图片_20211023214351](https://user-images.githubusercontent.com/91180371/138559021-27eedd99-db5b-47cf-9b60-3f0254e9105a.png)
-![微信图片_20211023214419](https://user-images.githubusercontent.com/91180371/138559026-da03329a-c3d6-482d-af22-45bb113b15be.jpg)
-![微信图片_20211023214429](https://user-images.githubusercontent.com/91180371/138559029-4a524e0e-2d6d-4b7e-abed-3e2ff62356f4.jpg)
 
+对每行每列循环，让后再对其中一些矩形经行循环分割成更小的矩形，达到临摹蒙德里安的效果。随机黑白灰，其中对于黑色的矩形有大小要求。点击画面随机生成蒙德里安临摹画。!
 ```
 float rowSize = 0;
 float colSize = 0;
@@ -68,3 +64,6 @@ void draw() {
 //Regenerate when the mouse is clicked
 }
 ```
+![微信图片_20211023214351](https://user-images.githubusercontent.com/91180371/138559174-7967fa02-dfb8-47b9-9c24-b4185326809d.png)
+![微信图片_20211023214419](https://user-images.githubusercontent.com/91180371/138559177-3d35ef90-ef47-4cde-b871-b0537a46bc02.jpg)
+![微信图片_20211023214429](https://user-images.githubusercontent.com/91180371/138559180-22c034cf-a2ef-4375-b2a6-6a6df6bdd83b.jpg)
