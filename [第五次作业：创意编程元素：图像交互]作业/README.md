@@ -35,6 +35,10 @@ void setup(){
 void draw(){
   button1.showButton();
   button2.showButton();
+  textSize(15);
+  fill(255);
+  text("flow",75,65);
+  text("spray",75,95);
   if(button1.press) mode=1;
   else if(button2.press) mode=2;
   button1.press=false;
