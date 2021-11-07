@@ -8,11 +8,10 @@
 试着将鼠标移动至左上方位的位置，会出现一闪一闪的开口金币哦~
 移动鼠标，会生成以鼠标位置为半径的椭圆，进行循环。不停移动鼠标，会出现一闪一闪的动态效果。颜色也选用接近的，不同明暗度的颜色。
 
-![微信图片_20211024173649](https://user-images.githubusercontent.com/91180371/138588508-640e9671-146e-410f-8104-322fe42308db.png)
+https://user-images.githubusercontent.com/91180371/140652278-6fd3c7db-96bd-4131-bcda-6f33321fe209.mp4
 
 第二个作品和第一个类似，将圆改成长方形，会有舞动的长方形。
 
-![微信图片_20211024174129](https://user-images.githubusercontent.com/91180371/138588668-54af40b4-133d-43e8-b2ee-1e041bf9c575.png)
-![微信图片_20211024174132](https://user-images.githubusercontent.com/91180371/138588669-0af60050-3c74-4c1e-b532-0d5366e1b925.png)
 
+https://user-images.githubusercontent.com/91180371/140652301-0b8c8863-55f7-4558-8c5f-b1508f6298e3.mp4
 
